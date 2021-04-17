@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! My name is Tiago Dall'Oca.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Computer Engineering student at Unicamp, software developer, functional programming enthusiast, and software architect aspirant. Programming since my early teens and never stopped since. I already have multiple experiences developing software and studying modern solutions in a world of increasing complexity.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Thanks for for coming :slightly_smiling_face:
 
-
-[jekyll-organization]: https://github.com/jekyll
