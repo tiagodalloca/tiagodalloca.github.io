@@ -20,3 +20,11 @@ With these problems out our way, nothing can stop us from assembling a glorious 
 Enough talking. Let's get our hands dirty.
 
 ## Getting our hands dirty
+
+As the big letters in the title implies, our goal is to provide access to a coffee machine using via a REST API. The main components will be:
+- a **server** to listen to http requests for coffee (`POST: /api/brew-coffee`)
+- an event emitter to dispatch and coordinate events handling, which is essentialy the **communication enabler** of our system
+- a coffee machine instance from which to retrieve coffee and operate the core **business logic**
+
+
+ 
