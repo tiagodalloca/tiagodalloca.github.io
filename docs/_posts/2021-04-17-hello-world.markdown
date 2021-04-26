@@ -1,8 +1,8 @@
 ---
-layout: post
 title:  "Hello World!"
 date:   2021-04-17 11:39:51 -0300
-categories: blog
+categories: 
+  - blog
 ---
 
 This is my first post here.
