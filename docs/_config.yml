@@ -35,7 +35,7 @@ search_provider          : lunr
 author:
   name             : "Tiago Dall'Oca"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Computer Engineering undergrad and Software Engineer aspirant"
+  bio              : "Software Engineer, Clojure Developer, and Computer Engineering undergrad"
   location         : "Campinas, Brazil"
   email            :
   links:
