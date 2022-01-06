@@ -14,7 +14,7 @@ Key points:
 - Previously
 - How I got to understand what I was going through
 2. Key learning points
-- Psychotherapy
-- Mindfulness
+- Psychotherapy / CBT
 - Quotes: scientific researches / documentary / some book I read
+- Habits (+ Mindfulness)
 3. Reach for help
