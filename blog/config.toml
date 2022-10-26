@@ -1,0 +1,66 @@
+sitename = "Tiago Dall'Oca"
+baseURL = "https://tiagodalloca.github.io"
+title = "Tiago Dall'Oca"
+author = "Tiago Dall'Oca"
+
+disqusShortname = "tiagodalloca"
+language = "en"
+defaultContentLanguage = "en"
+googleAnalytics = "G-12345"
+enableRobotsTXT = true
+paginate = 10
+
+theme = "beautifulhugo"
+
+# Pygments code block support
+PygmentsCodeFences = true
+
+# Enable line numbers in code blocks
+PygmentsOptions = "linenos=true"
+
+enableEmoji = true
+hasCJKLanguage = false
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+# Set post URL path to match that of Octopress
+[permalinks]
+post = "/blog/:year/:month/:day/:title/"
+
+[Params]
+  homeTitle = "Tiago blogs"
+  subtitle = "(besides hacking, studying and weight lifting)"
+  logo = "/images/bio-photo.jpg"
+  rss = true
+  comments = true
+  readingTime = true
+  delayDisqus = true
+  showRelatedPosts = true
+
+[[menu.main]]
+    name = "Blog"
+    url = "posts/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 3
+
+[Author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  name = "Tiago Dall'Oca"
+  website = "tiagodalloca.github.io"
+  email = "tdalloca@gmail.com"
+  github = "tiagodalloca"
+  reddit = "tiagodalloca"
+  linkedin = "tiagodalloca"
+
+[markup]
+  [markup.highlight]
+    style = "solarized-light"
+
+# and don't forget
+theme = "beautifulhugo"
+

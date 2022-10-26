@@ -1,6 +1,6 @@
 ---
 title:  "An Event-Driven REST Coffee Machine API with Clojure"
-date: 2021-04-17 11:39:51 -0300
+date: 2021-04-17
 categories:
   - blog
 tags:
@@ -83,7 +83,6 @@ Let's see this bad boy in action.
 
 ### Handling http requests with reitit
 
-{% raw %}
 ```clojure
 (ns coffee-machine-rest-api.rest-api.handler
   (:require [coffee-machine-rest-api.events :as events] ;; more requires...
@@ -104,7 +103,6 @@ Let's see this bad boy in action.
                      (throw event-ret)
                      {:body event-ret})))}}]])
 ```
-{% endraw %}
 
 I chose to start this section with some code right away because that's pretty much it. We are going to receive `coffee-id` and `money` ('cause we ain't no charity) as parameters in the requests `body` and dispatch `[::brew-coffee coffee-id money]`. Also, note the options `{:enforce-handler true}` map we're passing after the event. This will enforce that the event is handled, otherwise we get an exception as result of the `promise` `event-ret`.
 
@@ -201,4 +199,4 @@ Also as for next steps, we could add events handlers validations, as in to expli
 
 That's it for today's post!
 
-![Lawrence](/assets/images/and_send_it_to_the_internet.gif)
+![Lawrence](/images/and_send_it_to_the_internet.gif)

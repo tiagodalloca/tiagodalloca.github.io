@@ -1,6 +1,6 @@
 ---
-title:  "Hello World!"
-date:   2021-04-17 11:39:51 -0300
+title: "Hello World!"
+date: 2021-04-17
 categories: 
   - blog
 ---

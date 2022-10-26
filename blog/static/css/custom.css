@@ -1,0 +1,205 @@
+/* --- General --- */
+
+body {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #586e75;
+    font-weight: normal;
+}
+
+h1 {
+    margin-top: 0.3em !important;
+    margin-bottom: 0.5em;
+    font-size: 3em !important;
+    color: #073642 !important;
+}
+
+hr.small {
+    max-width: 200px !important;
+    border-width: 1px !important;
+}
+
+@media (prefers-color-scheme: dark) {
+    /* Post background */
+    body {
+        background: #eee8d5;
+        color: #657b83;
+    }
+
+    /* Links in posts */
+    p a {
+        color: #cb4b16;
+    }
+
+    p a:focus,
+    p a:hover {
+        color: #dc322f !important;
+    }
+
+    /* Other links (including those in post previews) */
+    a {
+        color: #cb4b16 !important;
+    }
+
+    a:hover,
+    a:focus {
+        color: #dc322f !important;
+        text-decoration: none;
+    }
+
+    /* Block quotes */
+    blockquote {
+        border-left: 5px solid #93a1a1;
+        color: #93a1a1;
+    }
+
+    /* Horizontal rule in single page mode */
+    hr.small {
+        border-color: #93a1a1;
+    }
+
+    /* Selected text and images */
+    ::selection,
+    ::-moz-selection {
+        color: white;
+        background: #b58900;
+    }
+
+    img::selection,
+    img::-moz-selection {
+        color: white;
+        background: #fff;
+    }
+}
+
+/* --- Navbar --- */
+
+@media (prefers-color-scheme: dark) {
+    /* Navbar strip */
+    .navbar-custom {
+        background: #eee8d5;
+        border-bottom: 1px solid #586e75;
+    }
+
+    /* Navbar link items and heading */
+    .navbar-custom .navbar-brand,
+    .navbar-custom .nav li a {
+        color: #dc322f;
+    }
+
+    .navbar-custom .navbar-brand:hover,
+    .navbar-custom .navbar-brand:focus ,
+    .navbar-custom .nav li a:hover,
+    .navbar-custom .nav li a:focus {
+        color: #dc322f;
+    }
+}
+
+/* --- Footer --- */
+
+@media (prefers-color-scheme: dark) {
+    /* Footer strip */
+    footer {
+        background: #002b36;
+    }
+}
+
+/* --- Post preview --- */
+
+.post-preview a {
+    font-weight: normal !important;
+}
+
+@media (prefers-color-scheme: dark) {
+    /* Post preview line separators */
+    .post-preview {
+        border-bottom: 1px solid #586e75;
+    }
+
+    /* Main headings */
+    .post-preview .post-title {
+        color: #cb4b16;
+    }
+
+    /* Post preview metadata (e.g. date) */
+    .post-preview .post-meta,
+    .post-heading .post-meta {
+        color: #93a1a1	;
+    }
+}
+
+/* --- Pager --- */
+
+@media (prefers-color-scheme: dark) {
+    /* Buttons (e.g. PREVIOUS POST, NEXT POST .etc) */
+    .pager li a {
+        background: #073642;
+        color: #cb4b16;
+    }
+
+    .pager li a:hover,
+    .pager li a:focus {
+        color: #dc322f !important;
+        background: #002b36;
+    }
+}
+
+/* --- Tables --- */
+
+/* Table border */
+table tr,
+table tr th,
+table tr td {
+    border: 0;
+}
+
+@media (prefers-color-scheme: dark) {
+    /* Table rows (odd and even respectively) */
+    table tr {
+        background-color: #eee8d5;
+    }
+
+    table tr:nth-child(2n) {
+        background-color: #fdf6e3;
+    }
+
+    /* Table heading row */
+    table tr th {
+        background-color: #eee8d5;
+        color: #586e75;
+    }
+}
+
+/* --- Code blocks --- */
+pre, code {
+    font-size: 0.9em;
+}
+
+/* Improve alignment of line numbers */
+.lnt {
+    display: block;
+    width: 1.5em;
+    text-align: right;
+}
+
+/* Remove border around code blocks */
+pre,
+code {
+    border: 0;
+}
+
+@media (prefers-color-scheme: dark) {
+    /* Code blocks and inline code */
+    pre,
+    code {
+        background: #eee8d5;
+        color: #586e75;
+    }
+}
