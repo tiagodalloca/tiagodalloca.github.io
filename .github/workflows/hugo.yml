@@ -52,10 +52,17 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+          cd subsites/leroy-merlin-showcase
+          hugo \
+            --minify \
+            --baseURL "${{ steps.pages.outputs.base_url }}/leroy-merlin-showcase/" \
+            --destination ../../public/leroy-merlin-showcase/
+          cd ../..
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: ./public
+          path: ./public           
+
 
   # Deployment job
   deploy:
