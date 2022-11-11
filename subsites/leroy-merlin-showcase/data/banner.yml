@@ -1,0 +1,11 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Showacasing nosso móvel top"
+subtitle: |
+  Para a matéria de EX006
+content : |
+  Nosso móvel é tão top que é até difícil pensar em qualquer defeito. Sua simples existência criou uma nova orientação sexual.
+button:
+  label : "Ui quero saber mais"
+  link : "#first"
+image : "images/landing.jpg"

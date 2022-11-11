@@ -1,0 +1,41 @@
+title: "Galeria de lontras"
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+  Lontras
+pictures:
+  - title: "Lontra"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery-1.jpg"
+    thumb: "images/gallery-1.jpg"
+    button: "Details"
+
+  - title: "Lontra"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery-2.jpg"
+    thumb: "images/gallery-2.jpg"
+    button: "Details"
+
+  - title: "Lontra"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery-3.jpg"
+    thumb: "images/gallery-3.jpg"
+    button: "Details"
+
+  - title: "Lontra"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery-4.jpg"
+    thumb: "images/gallery-4.jpg"
+    button: "Details"
+
+  - title: "Lontra"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery-5.jpg"
+    thumb: "images/gallery-5.jpg"
+    button: "Details"
+
+  - title: "Lontra"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery-6.jpg"
+    thumb: "images/gallery-6.jpg"
+    button: "Details"
+
