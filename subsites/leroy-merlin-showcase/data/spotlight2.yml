@@ -1,9 +1,9 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-title : "Gambá"
+title : "Liberdade"
 content: |
-  Somente.
+  Queremos que **você** possa usá-lo para a função que melhor **te** atender na forma que **você** preferir.
 button: 
-  label: "Mais gambá"
+  label: "No dia-a-dia"
   link: "#"
 image: "images/second.jpg"

@@ -1,10 +1,10 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Oh o irmão dele"
+title : "Um móvel modular"
 content: |
-  Foda né?
+  Ao contrário de um móvel de tamanho único, trabalhamos com a proposta de modularização. Assim, um móvel pode ser somado a diversos outros, formando um mobiliário único para o seu lar! Incrível né?
 button: 
-  label: "Sim, foda"
+  label: "Sim! Conte-me mais sobre"
   link: "#"
 image: "images/first.jpg"
