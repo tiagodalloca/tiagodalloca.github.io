@@ -5,13 +5,13 @@ style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
   - name : "Baixo custo"
-    content : "Pensamos em garantir a viabilidade financeira do projeto com um custo total (com furadeira e ferramentários) de R$ XX,XX; e um custo parcial (só de matéria-prima) de R$ XX,XX."
+    content : "Pensamos em garantir a viabilidade financeira do projeto com um baixo custo total"
     style : "style2 major fa-gem"
 
   # feature item loop
   - name : "Simplicidade"
     content : "Por utilizar, em sua maioria, corda e madeira, o mobiliário é de simples e rápida montagem."
-    style : "solid style2 major fa-save"
+    style : "solid style2 major fa-leaf"
     
   # feature item loop
   - name : "Praticidade"
@@ -21,7 +21,7 @@ items:
   # feature item loop
   - name : "Modular"
     content : "O móvel é pensado para caso somado a outros móveis do mesmo, montar os projetos mais diferentesw e púnicos para a sua casa!"
-    style : "solid style2 major fa-wifi"
+    style : "solid style2 major fa-bolt"
     
   # feature item loop
   - name : "Personalizável"
@@ -32,34 +32,4 @@ items:
   - name : "Criativo"
     content : "Explire novas amarrações e posições. Contamos com a ousadia e liberdade para reinventar o seu mobiliário!"
     style : "style2 major fa-paper-plane"
-    
-  # feature item loop
-  - name : "???"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-desktop"
-    
-  # feature item loop
-  - name : "???"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-sync-alt"
-    
-  # feature item loop
-  - name : "???"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-hashtag"
-    
-  # feature item loop
-  - name : "???"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-bolt"
-    
-  # feature item loop
-  - name : "???"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "style2 major fa-envelope"
-    
-  # feature item loop
-  - name : "???"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-leaf"
     

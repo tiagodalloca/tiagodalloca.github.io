@@ -2,8 +2,8 @@
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
 title : "Liberdade"
 content: |
-  Queremos que **você** possa usá-lo para a função que melhor **te** atender na forma que **você** preferir.
+  Queremos que <bold>você</bold> possa usá-lo para a função que melhor <bold>te</bold> atender na forma que <bold>você</bold> preferir.
 button: 
-  label: "No dia-a-dia"
-  link: "#"
+  label: "Como montar"
+  link: "https://drive.google.com/file/d/1EQvZ7cZ47lmzSqzWbcKaXjq-PUyJ-PGg/view?usp=sharing"
 image: "images/second.jpg"
