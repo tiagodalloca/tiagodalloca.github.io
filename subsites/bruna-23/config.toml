@@ -20,5 +20,12 @@ theme           = "hugo-webslides"
   slideOffset = 50
   hideIndex = false
 
+
 [markup]
-  defaultMarkdownHandler = "blackfriday"
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = 'blackfriday'
+      wrapStandAloneImageWithinParagraph = true
+    [markup.goldmark.renderer]
+      unsafe = true
