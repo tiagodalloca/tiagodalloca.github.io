@@ -1,0 +1,24 @@
+baseurl         = "/"
+languageCode    = "pt-br"
+title           = "s2<3"
+theme           = "hugo-webslides"
+
+[params]
+  author = "Tiago"
+  homepage = "tiagodalloca.github.io"
+
+[params.webslides]
+  banner = false
+  slideshow = true
+  vertical = false
+  autoslide = false
+  changeOnClick = false
+  disableLoop = false
+  minWheelDelta = 40
+  disableNavigateOnScroll = false
+  scrollWait = 450
+  slideOffset = 50
+  hideIndex = false
+
+[markup]
+  defaultMarkdownHandler = "blackfriday"

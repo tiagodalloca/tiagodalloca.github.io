@@ -7,3 +7,6 @@
 [submodule "subsites/leroy-merlin-showcase/themes/hugo-story"]
 	path = subsites/leroy-merlin-showcase/themes/hugo-story
 	url = https://github.com/caressofsteel/hugo-story.git
+[submodule "subsites/bruna-23/themes/hugo-webslides"]
+	path = subsites/bruna-23/themes/hugo-webslides
+	url = https://github.com/rcjach/hugo-webslides.git
