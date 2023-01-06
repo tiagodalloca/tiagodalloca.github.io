@@ -58,11 +58,16 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/leroy-merlin-showcase/" \
             --destination ../../public/leroy-merlin-showcase/
           cd ../..
+          cd subsites/bruna-23
+          hugo \
+            --minify \
+            --baseURL "${{ steps.pages.outputs.base_url }}/bruna-23/" \
+            --destination ../../public/bruna-23
+          cd ../..
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: ./public           
-
+          path: ./public
 
   # Deployment job
   deploy:
