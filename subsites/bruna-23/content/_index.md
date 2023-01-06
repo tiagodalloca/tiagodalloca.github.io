@@ -4,15 +4,13 @@ title = "Feliz s2<3"
 
 <!--: .wrap .fadeInUp bg=bg-black bg=aligncenter bgimage=frame|images/nos-1.jpg -->
 
-# Feliz {{< svg fa-heart-o >}} 23!
+# **Feliz {{< svg fa-heart-o >}} 23!**
 
 ---
 <!--: .wrap -->
 |||v
 
-### **Dia de comemorar essa gata aqui**
-
-Olha essa gostosa
+<h1 style="text-align:right;"><strong>Dia de comemorar essa gata aqui</strong></h1>
 
 |||
 
@@ -21,16 +19,15 @@ Olha essa gostosa
 
 |||
 
-### Sempre atenta pra coisas novas
+
+<h3 style="text-align:center;">Nesse momento tão especial, quero expressar o quanto você é <strong>importante</strong> para mim. Celebrar mais um ano da sua vida é renovação da <strong>gratidão</strong> que sinto por você e também expressar meu desejo que esteja por aqui por mais anos!</p>
 
 ---
 
 <!--: .wrap -->
 |||v
 
-### **Não dá nem pra disfarçar o quanto você trabalha e luta nessa vida**
-
-Olha essa gostosa
+<h1 style="text-align:right;"><strong>Não dá nem pra disfarçar o quanto você trabalha e luta nessa vida</strong></h1>
 
 |||
 
@@ -39,15 +36,48 @@ Olha essa gostosa
 
 |||
 
-### Confesso que gosto hehe
+<img class="aligncenter" style="max-height:70vh;" src=images/bruna-rosca.gif alt=gostosa></img>
+
+|||
+
+### Isso me me traz muita **admiração** por você. Mais do que isso ainda: _me_ **motiva**
 
 ---
 
 <!--: .wrap bg=bg-black bg=aligncenter bgimage=images/nos-brasil.jpg -->
 
-# Estamos juntos mesmo na decepção
+# Tivémos muitas memórias juntos no último ano
 
-Brasilzão nunca falha em nos decepcionar
+#### Incluindo ver o Brasilzão perdendo kkkkk
+
+---
+
+<!--: .wrap bg=bg-black bg=aligncenter bgimage=images/nos-ovo.jpg -->
+
+# Lembra disso? 👀
+
+---
+
+<!--: .wrap bg=bg-black bg=aligncenter bgimage=images/totoro.jpg -->
+
+---
+
+<!--: .wrap bg=bg-black bg=aligncenter bgimage=images/totoro.jpg -->
+
+# Nos divertimos com alguns filmes bem bacanas 😊
+
+---
+
+<!--: .wrap bg=bg-black bg=aligncenter bgimage=images/kiki.jpg -->
+
+# Lembro de darmos muitas risadas vendo a Kiki fazendo suas entregas com seu gatinho falante inseparável
+
+---
+
+
+<!--: .wrap bg=bg-black bg=aligncenter bgimage=images/arnold.jpg -->
+
+# Tomamos uns sustinhos assistindo o Exterminador 💀
 
 ---
 
@@ -55,9 +85,9 @@ Brasilzão nunca falha em nos decepcionar
 
 |||v
 
-### **Além de tudo, uma pessoa que eu observei melhorando e ficando mais leve**
+# **Além de tudo, uma pessoa que eu vi de perto aproveitando a vida**
 
-Sempre quis que você aprendesse a aproveitar mais a vida, mas parece que hoje você que me ajuda a aproveitar mais a minha tendo você ao meu lado
+##### E tornando meus dias mais leves e divertidos 😄
 
 |||
 
@@ -72,18 +102,28 @@ Sempre quis que você aprendesse a aproveitar mais a vida, mas parece que hoje v
 
 <!--: .wrap bg=bg-black bg=aligncenter bgimage=images/nos-2.jpg -->
 
-# Passamos por altas paradas
+## E temos um monteeee de fotos legais juntos
 
-#### E temos um monteeee de fotos legais juntos
+##### Teriam muitas outras que eu poderia ter incluído!
+
 
 ---
 
 <!--: .wrap bg=bg-black bg=aligncenter bgimage=images/nos-hobbes.jpg -->
 
-# Bora aproveitar essa delícia de niver
+# Então bora aproveitar essa delícia de aniversário
 
 #### E criar mais memórias deliciosas juntos
 
-#### 🦔
+---
 
+<!--: .wrap bg=bg-black bg=aligncenter bgimage=images/nos-hobbes.jpg -->
+
+# **Te amo muito ❤️**
+
+---
+
+<!--: .wrap bg=bg-black bg=aligncenter bgimage=images/eu.jpg -->
+
+## Feito com um montão de carinho 🦔
 
